@@ -1,8 +1,4 @@
 # GUI-MAG-FLOWMETER
 
 
-<<<<<<< HEAD
-![VIEW.jpg]( {https://github.com/fahmimsh/GUI-MAG-FLOWMETER/blob/main/VIEW.jpg} )
-=======
-![VIEW.jpg]( {https://github.com/fahmimsh/GUI-MAG-FLOWMETER/blob/main/VIEW.jpg} )
->>>>>>> 26f84ee65d6584ac9235cc92845196583cc86403
+![VIEW](https://user-images.githubusercontent.com/71054830/182518289-58d1ada4-b1ea-44b2-9b8c-841d886f4d5e.jpg)
