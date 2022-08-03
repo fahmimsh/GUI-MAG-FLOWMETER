@@ -1,0 +1,16 @@
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\WaterMeter_GUI.exe.config
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\WaterMeter_GUI.exe
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\WaterMeter_GUI.pdb
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.Form1.resources
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.Properties.Resources.resources
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.csproj.GenerateResource.cache
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.exe
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.pdb
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.Form2.resources
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.Form3.resources
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\NetToolKit.dll
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\SKCLNET.dll
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\Fahmi_Mashuri\source\repos\WaterMeter_GUI\WaterMeter_GUI\obj\Debug\WaterMeter_GUI.csproj.CopyComplete
